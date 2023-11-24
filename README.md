@@ -1,4 +1,6 @@
 # Assignment4-3005
+Link to youtube video: https://youtu.be/WTLqo2O_BL4
+
 Database Setup Instructions:
 Prerequisites: PostgreSQL
 
